@@ -1,0 +1,1 @@
+setInterval(_ => document.querySelector('.ytp-ad-overlay-close-button')?.click(), 50)
